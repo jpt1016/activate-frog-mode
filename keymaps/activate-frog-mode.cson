@@ -8,5 +8,5 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
-  'ctrl-alt-f': 'activate-frog-mode:toggle'
+  'ctrl-alt-p': 'activate-frog-mode:toggle'
   'ctrl-f ctrl-r ctrl-o ctrl-g': 'activate-frog-mode:toggle'
