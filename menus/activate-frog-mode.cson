@@ -2,19 +2,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle activate-pepe-mode'
-      'command': 'activate-pepe-mode:toggle'
+      'label': 'Toggle activate-frog-mode'
+      'command': 'activate-frog-mode:toggle'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'activate-pepe-mode'
+      'label': 'activate-frog-mode'
       'submenu': [
         {
           'label': 'Toggle'
-          'command': 'activate-pepe-mode:toggle'
+          'command': 'activate-frog-mode:toggle'
         }
       ]
     ]

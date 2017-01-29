@@ -1,11 +1,11 @@
 {
-  "name": "activate-pepe-mode",
-  "main": "./lib/activate-pepe-mode",
-  "version": "0.2.6",
-  "description": "Meme magic IS real",
+  "name": "activate-frog-mode",
+  "main": "./lib/activate-frog-mode",
+  "version": "0.0.0",
+  "description": "Frog magic IS real",
   "keywords": [
     "fun",
-    "pepe",
+    "frog",
     "memes",
     "meme",
     "magic",
@@ -16,12 +16,12 @@
     "awesome",
     "activate",
     "mode",
-    "activate-pepe-mode"
+    "activate-frog-mode"
   ],
   "activationCommands": {
-    "atom-workspace": "activate-pepe-mode:toggle"
+    "atom-workspace": "activate-frog-mode:toggle"
   },
-  "repository": "https://github.com/a-manning/activate-pepe-mode",
+  "repository": "https://github.com/jpt1016/activate-frog-mode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.1 <2.0.0"

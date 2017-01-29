@@ -1,8 +1,8 @@
 path = require 'path'
 
 module.exports =
-  pepePath:
-    title: "Path to Pepes"
-    description: "The path to your rare pepes"
+  frogPath:
+    title: "Path to frogs"
+    description: "The path to your rare frogs"
     type: "string"
-    default: path.join(__dirname, '../pepes/').replace(/\\/g, '/')
+    default: path.join(__dirname, '../frogs/').replace(/\\/g, '/')
