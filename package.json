@@ -1,7 +1,7 @@
 {
   "name": "activate-frog-mode",
   "main": "./lib/activate-frog-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PC frogs only",
   "keywords": [
     "fun",
